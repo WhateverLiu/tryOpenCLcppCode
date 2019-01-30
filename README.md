@@ -2,7 +2,7 @@ This package cannot be compiled. The package structure is exactly the same as `t
 
 In `openclcode.cpp`, the C code is wrapped in `extern "C" {}`.
 
-The copmiler spits the following error:
+The compiler spits the following error:
 
 * installing to library 'C:/Program Files/R/R-3.5.1/library'
 * installing *source* package 'tryGPU' ...
