@@ -1,0 +1,3 @@
+
+
+PKG_LIBS += -L"C:/Windows/System32" -lOpenCL
